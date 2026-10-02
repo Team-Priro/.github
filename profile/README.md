@@ -22,3 +22,4 @@ Priro(프리로)는 '자연'을 뜻하는 이름처럼, **작품 자체가 중�
 
 - Landing: [priro.art](https://www.priro.art/)
 - Instagram: [@priro.app](https://www.instagram.com/priro.app)
+- Store: [AppStore](https://apps.apple.com/us/app/priro/id6795210731), PlayStore(coming soon)
